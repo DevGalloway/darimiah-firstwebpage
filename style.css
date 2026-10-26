@@ -46,3 +46,10 @@ nav h2 {
 nav li {
     margin: 8px;
 }
+img {
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    margin: 20px auto;
+    border: 2px solid #39ff88;
+}

@@ -5,3 +5,10 @@ body {
     margin: 0;
     padding: 30px;
 }
+#main-title {
+    color: #39ff88;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #39ff88;
+}

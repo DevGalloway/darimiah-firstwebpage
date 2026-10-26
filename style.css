@@ -24,3 +24,11 @@ h2 {
     border-bottom: 1px solid #39ff88;
     padding-bottom: 8px;
 }
+footer {
+    background-color: #2a0d0d;
+    color: #39ff88;
+    margin: 25px;
+    padding: 15px;
+    border: 1px solid #39ff88;
+    text-align: center;
+}

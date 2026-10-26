@@ -25,10 +25,24 @@ h2 {
     padding-bottom: 8px;
 }
 footer {
-    background-color: #2a0d0d;
+   background-color: #260d22;
     color: #39ff88;
     margin: 25px;
     padding: 15px;
     border: 1px solid #39ff88;
     text-align: center;
+}
+nav {
+    background-color: #101010;
+    margin: 25px;
+    padding: 20px;
+    border: 1px solid #555555;
+}
+
+nav h2 {
+    color: #e6e6e6;
+}
+
+nav li {
+    margin: 8px;
 }

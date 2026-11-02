@@ -9,9 +9,6 @@ body {
     margin: 0;
     padding: 24px;
 }
-
-/* ---------- Header ---------- */
-
 header {
     text-align: center;
     padding: 32px 24px;
@@ -26,8 +23,6 @@ header {
     padding: 16px;
     border: 2px solid #39ff88;
 }
-
-/* ---------- Navigation ---------- */
 
 nav {
     background-color: #101010;
@@ -51,8 +46,6 @@ nav ul {
 nav li {
     margin: 8px;
 }
-
-/* ---------- Main content ---------- */
 
 main {
     display: grid;
@@ -86,8 +79,6 @@ li {
     line-height: 1.6;
 }
 
-/* ---------- Cars ---------- */
-
 img {
     display: block;
     width: 100%;
@@ -97,8 +88,6 @@ img {
     border: 2px solid #39ff88;
 }
 
-/* ---------- Footer ---------- */
-
 footer {
     background-color: #260d22;
     color: #39ff88;
@@ -107,8 +96,6 @@ footer {
     border: 1px solid #39ff88;
     text-align: center;
 }
-
-/* ---------- Tablet: 768px ---------- */
 
 @media (max-width: 768px) {
     body {
@@ -128,8 +115,6 @@ footer {
         padding: 16px;
     }
 }
-
-/* ---------- Mobile: 320px ---------- */
 
 @media (max-width: 480px) {
     body {
